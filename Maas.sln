@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maas", "Maas\Maas.csproj", "{99C54504-90A7-402F-BD13-01878BDE0F5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99C54504-90A7-402F-BD13-01878BDE0F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C54504-90A7-402F-BD13-01878BDE0F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C54504-90A7-402F-BD13-01878BDE0F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C54504-90A7-402F-BD13-01878BDE0F5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0509F2E-0474-4246-8D37-224978A94E6B}
+	EndGlobalSection
+EndGlobal
