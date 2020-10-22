@@ -1,0 +1,11 @@
+C:\Users\subhanav\source\repos\Maas\Maas\bin\Debug\netcoreapp2.2\Maas.deps.json
+C:\Users\subhanav\source\repos\Maas\Maas\bin\Debug\netcoreapp2.2\Maas.runtimeconfig.json
+C:\Users\subhanav\source\repos\Maas\Maas\bin\Debug\netcoreapp2.2\Maas.runtimeconfig.dev.json
+C:\Users\subhanav\source\repos\Maas\Maas\bin\Debug\netcoreapp2.2\Maas.dll
+C:\Users\subhanav\source\repos\Maas\Maas\bin\Debug\netcoreapp2.2\Maas.pdb
+C:\Users\subhanav\source\repos\Maas\Maas\obj\Debug\netcoreapp2.2\Maas.csprojAssemblyReference.cache
+C:\Users\subhanav\source\repos\Maas\Maas\obj\Debug\netcoreapp2.2\Maas.csproj.CoreCompileInputs.cache
+C:\Users\subhanav\source\repos\Maas\Maas\obj\Debug\netcoreapp2.2\Maas.AssemblyInfoInputs.cache
+C:\Users\subhanav\source\repos\Maas\Maas\obj\Debug\netcoreapp2.2\Maas.AssemblyInfo.cs
+C:\Users\subhanav\source\repos\Maas\Maas\obj\Debug\netcoreapp2.2\Maas.dll
+C:\Users\subhanav\source\repos\Maas\Maas\obj\Debug\netcoreapp2.2\Maas.pdb
